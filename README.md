@@ -5,7 +5,7 @@ A slight adjustment to the Finder icon for Apple's Mac OS X Yosemite 10.10
 
 ![All 3 Finder icons as seen in the Dock](http://i.imgur.com/BCN45ha.png)
 
-To install, use the ![Download ZIP](http://i.imgur.com/rfJY11a.png) button. Expand the zip in your ~/Downloads folder. The [replace_finder_icons.sh](https://github.com/RichardBronosky/better-finder-icon/blob/master/replace_finder_icons.sh) script expects to find a better-finder-icon-master directory which is the result of downloading that zip file and opening it in the default location.
+To install, use the [![Download ZIP](http://i.imgur.com/rfJY11a.png)](https://github.com/RichardBronosky/better-finder-icon/archive/master.zip) button on the right side of this GitHub repo page. Expand the zip in your ~/Downloads folder. The [replace_finder_icons.sh](https://github.com/RichardBronosky/better-finder-icon/blob/master/replace_finder_icons.sh) script expects to find a better-finder-icon-master directory which is the result of downloading that zip file and opening it in the default location.
 
 To uninstall, use the [restore_finder_icons.sh](https://github.com/RichardBronosky/better-finder-icon/blob/master/restore_finder_icons.sh) script.
 
